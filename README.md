@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Maria Dorumsgaard | Portfolio</title>
+        <title>M | Portfolio</title>
         <meta charset="utf-8">
     </head>
     <body>
